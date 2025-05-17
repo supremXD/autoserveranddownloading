@@ -4,7 +4,7 @@ python3.
 ```bash
 sudo apt install python3
 ```
-## USAGE
+## Usage:
 For using the tools, you can use the python version
 ```bash
 python3 autoserver.py
