@@ -1,6 +1,6 @@
 # USAGE
 + Requirements:
-python3
+python3.
 ```bash
 sudo apt install python3
 ```
@@ -8,7 +8,7 @@ sudo apt install python3
 ```bash
 python3 autoserver.py
 ```
-Or you can use the bash version
+Or you can use the bash version.
 ```bash
 sudo chmod +x autoserver.sh
 bash autoserver.sh
