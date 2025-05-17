@@ -15,6 +15,7 @@ def menu():
         ip()
         print("")
         print("\033[93mStarting server. Press Ctrl+C to stop.\033[93m\033[97m\033[97m")
+        print("")
         os.system("python3 -m http.server 8080")
         exit()
     if option == "2":
