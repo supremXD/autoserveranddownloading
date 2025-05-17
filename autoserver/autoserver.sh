@@ -18,6 +18,7 @@ server() {
     get_ip
     echo ""
     echo -e "${YELLOW}Starting server. Press Ctrl+C to stop.${RESET}${WHITE}"
+    echo ""
     python3 -m http.server 8080
     exit
 }
