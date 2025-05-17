@@ -28,6 +28,7 @@ menu() {
         get_ip
         echo ""
         echo -e "${YELLOW}Starting server. Press Ctrl+C to stop.${RESET}"
+        echo ""
         python3 -m http.server 8080
         exit
 
